@@ -1,0 +1,28 @@
+.text-expander {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.text-expander p {
+  line-height: 1.6;
+}
+
+.text-expander button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.text-expander button:hover {
+  opacity: 0.8;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
